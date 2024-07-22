@@ -20,10 +20,6 @@
 - [Swift](https://developer.apple.com/swift/)
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
-## Model Providers
-
-This template ships with OpenAI `gpt-3.5-turbo` as the default
-
 ## Running locally
 
 You can running locally with XCode after you pull the code.
