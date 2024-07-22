@@ -1,6 +1,6 @@
 
 <a href="https://github.com/jovimoura/weather-app-swift">
-  <img alt="WeatherApp with SwiftUI" src="https://github.com/jovimoura/weather-app-swift/blob/main/weatherapp.png>
+  <img alt="WeatherApp with SwiftUI" src="https://github.com/jovimoura/weather-app-swift/blob/main/weatherapp.png">
   <h1 align="center">WeatherApp Swift</h1>
 </a>
 
